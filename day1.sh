@@ -5,5 +5,5 @@ for (( i = 0; i < 10; i++ )); do
 done
 
 if [ $# -eq 0 ]; then
-  echo "this is if considion"
+  echo "this is if Bconsidion"
 fi
