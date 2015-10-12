@@ -8,6 +8,11 @@ head -n7 head.txt|sort
 
 echo "**********except last 6*******************"
 head -n-6 head.txt
+
+echo "***************** last 10 line **************** "
+
+tail -n 10 head.txt
+
 echo "***********3 th line in every line *******************"
 
 
