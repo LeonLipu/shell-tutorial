@@ -20,5 +20,5 @@ echo "***************uname -a *************"
 uname -a
 
 echo "*************** sudo lshw************"
-#get all info about hardware  to this command you need to have sudo permisson 
+#get all info about hardware  to this command you need to have sudo permisson  deatails
 sudo lshw
