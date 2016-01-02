@@ -26,4 +26,8 @@ echo "6.________________________________________"
 #add line after a befor i and changeline c
 sed '/unix/ a "lipu"' forsed.txt
 
+#for small example 
+echo abcd124 |sed 's/\([a-z]*\).*/\1/' #output will be abcd
+
+
 #sed 'p' will duplicate lines and sed -n 'p' only one line and sed -n '/unix/ p' is same as grep command !p is opposite
