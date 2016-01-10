@@ -1,3 +1,7 @@
+#close all process in port 80
+
+sudo kill $(sudo lsof -t -i :80)
+
 
 #list of all processes
 ps -A
