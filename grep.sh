@@ -28,3 +28,5 @@ grep -r "string" *
 -o only show matched string as output
 -b show position of matched string
 -n no of line output you want to see  
+
+grep -iRB -10 "string" . //it will give you before 10 line with match search 
