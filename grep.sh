@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 for grep command this is tutorial
 
 grep <string> <filename>

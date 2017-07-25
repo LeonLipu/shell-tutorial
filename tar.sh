@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # explanation for tar command
 1.creating tar file
 

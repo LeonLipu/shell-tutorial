@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #give karnel  name
 echo "*********uname********"
 uname #linux

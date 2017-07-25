@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 
 #sorting based on alphabate
 sort sort.txt

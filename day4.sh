@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 cat forsed.txt
 echo "1.________________________________________"
 

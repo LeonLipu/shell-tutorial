@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #this is about reciving parameter to shell scripting
 
 echo $# #this number of argument

@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 
 #it will give system hostname
 hostname -i

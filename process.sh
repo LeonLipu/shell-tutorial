@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #close all process in port 80
 
 sudo kill $(sudo lsof -t -i :80)

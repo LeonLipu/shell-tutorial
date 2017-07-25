@@ -1,4 +1,5 @@
-ssh -v #it gives version of command 
+#!/usr/bin/env bash
+ssh -v #it gives version of command
 top # top process by cpu utilization 
 #killing a process 
 ps -ef|grep processname

@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #get all file end with .sh
 
 find -name "*.sh"
