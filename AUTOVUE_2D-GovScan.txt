@@ -1,0 +1,5 @@
+Artifact           |      Scan Type       | Scan Status | Audit Scan Status
+admin:rqs                    | DockerBenchScan      | Success    | FAILURE
+admin:rqs                    | OwaspVulnerability   | Success    | FAILURE
+admin:rqs                    | TPAScan              | Success    | FAILURE
+admin:rqs                    | McAfeeVulnerability  | Success    | PASS

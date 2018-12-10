@@ -1,0 +1,3 @@
+image:cne-repos1.us.oracle.com:7744/apps/cegbu/primavera/SOLR-GovScan
+tag:rqs18.8.4.0_20181206_2114
+version:18.8.4
